@@ -18,11 +18,11 @@
 
 ### :woman_technologist: About Him : He's a Network Engineer but aspiring Cloud/DevOps Engineer.
 
-- :telescope: He works as a Network Engineer and contributes to the design and management of the infrastructure.
+- :telescope: He works as a Network Engineer and contributes to the design and management of the network infrastructure.
 
 - :seedling: I'm currently passionate about acquiring knowledge and skill to become a world class cloud/devops engineer.
 
-- :zap: In my free time,I reads tech articles, watch animes and football.
+- :zap: In my free time, I reads tech articles, watch animes and football.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/afeez-adeboye-16198119b/)
 
