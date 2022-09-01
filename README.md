@@ -22,7 +22,7 @@
 
 - :seedling: I'm currently passionate about acquiring knowledge and skill to become a world class cloud/devops engineer.
 
-- :zap: In my free time,he reads tech articles.
+- :zap: In my free time,I reads tech articles, watch animes and football.
 
 - :mailbox:How to reach me: [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/afeez-adeboye-16198119b/)
 
