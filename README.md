@@ -16,7 +16,7 @@
 <p  align="center">
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
 
-### :woman_technologist: About Him : He's a Cloud Engineer.
+### :woman_technologist: About Him : He's a Network Engineer but aspiring Cloud/DevOps Engineer.
 
 - :telescope: He works as a Network Engineer and contributes to the design and management of the infrastructure.
 
