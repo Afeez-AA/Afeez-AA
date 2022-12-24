@@ -2,7 +2,7 @@
 <p align="center"><img src="animation.gif" width="35%"></p>
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=5000&color=%2338C2FF&size=40&height=200&width=900&lines=Heyyy!+I'm+Afeez+Adeboye;I'm+a+Cloud/Network+Engineer+at+Cedarview;Welcome+to+my+profile+!">
+<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&center=true&vCenter=true&duration=5000&color=%2338C2FF&size=40&height=200&width=900&lines=Heyyy!+I'm+Afeez+Adeboye;I'm+a+Cloud/DevOps+Engineer+;Welcome+to+my+profile+!">
 </p>
           
 <br>
@@ -17,7 +17,7 @@
 <p  align="left">
 <img align="center" src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">   
 
-### :woman_technologist: About Him : He's a Dynamic and ambitious junior cloud/devops engineer.
+### :woman_technologist: About Him : He's a Dynamic and ambitious cloud/devops engineer.
 
 :telescope: He works as a Network Engineer and contributes to the design and management of the network infrastructure.
 
